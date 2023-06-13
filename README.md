@@ -4,12 +4,12 @@ The radius sanding machine is designed to solve the tiring process of sanding a 
 
 <img src=Machine%20View%201.png width=800 />
 
-The machine is built with standard lumber.  Mechanical parts are sourced from Amazon & Home Depot.
+The machine is built with standard lumber.  Mechanical parts are sourced from *Amazon* & *Home Depot*.
 
 ### Lumber
 - 2x4's
 - 3/4" plywood
-- MDF
+- 3/4" MDF
 
 ### Mechanical
 - [1" steel shaft](https://www.amazon.com/dp/B000H9PGW6)
@@ -25,7 +25,7 @@ The machine is built with standard lumber.  Mechanical parts are sourced from Am
 
 ### Modification/Editing Notes
 
-- The ```Radius Dish Machine.3dm``` file is a Rhino CAD master.  If you have Rhino, you can edit/modify the design source
+- The [Radius Dish Machine.3dm](Radius%20Dish%20Machine.3dm) file is a Rhino CAD master.  If you have Rhino, you can edit/modify the design source
 - If you make modifications, please submit a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests#) with the changes so we can incorporate and make your changes available to others. (or send us an email with the file and we'll review the modifications and publish)
 
 ### Cut List
