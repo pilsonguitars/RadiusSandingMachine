@@ -47,4 +47,4 @@ The machine is built with standard lumber.  Mechanical parts are sourced from Am
 <img src=Machine%20View%206.png width=400 />
 
 ### License
-- [MIT](https://en.wikipedia.org/wiki/MIT_License) (You're free to use and modify, but must retain the copyright)
+- [MIT](https://github.com/pilsonguitars/RadiusSandingMachine/blob/main/LICENSE) (You're free to use and modify, but must retain the copyright)
