@@ -28,6 +28,10 @@ The machine is built with standard lumber.  Mechanical parts are sourced from *A
 - The [Radius Dish Machine.3dm](Radius%20Dish%20Machine.3dm) file is a Rhino CAD master.  If you have Rhino, you can edit/modify the design source
 - If you make modifications, please submit a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests#) with the changes so we can incorporate and make your changes available to others. (or send us an email with the file and we'll review the modifications and publish)
 
+### Build Notes
+- Your motor mount plate will vary depending on your specific motor.  I've listed the dimensions used in this build as a reference.
+- The motor mount plate is hinged to allow for belt tensioning.  Hinge on the side towards the middle of the machine and use a screw/bolt on the opposing side as a tensioner.
+
 ### Cut List
 <img src=Parts%20Layout.png width=1024 />
 
