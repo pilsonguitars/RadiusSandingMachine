@@ -32,6 +32,8 @@ The machine is built with standard lumber.  Mechanical parts are sourced from *A
 ### Build Notes
 - Your motor mount plate will vary depending on your specific motor.  I've listed the dimensions used in this build as a reference.
 - The motor mount plate is hinged to allow for belt tensioning.  Hinge on the side towards the middle of the machine and use a screw/bolt on the opposing side as a tensioner.
+- The shaft will likely need to be sanded in order to remove the coating that's applied from the manufacturer.  Otherwise, you'll have trouble fitting it through the pillow block bearing.
+- The go-card axle hub was tapped to receive a 1/4"-20 bolt in order to secure it to the shaft.  Additionally, I ground a flat spot into the shaft for the bolt to seat against.
 
 ### Cut List
 <img src=Parts%20Layout.png width=1024 />
