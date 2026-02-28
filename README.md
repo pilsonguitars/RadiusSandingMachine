@@ -18,6 +18,7 @@ The machine is built with standard lumber.  Mechanical parts are sourced from *A
 - 2" motor pulley
 - [4" Go-cart axle hub](https://www.amazon.com/dp/B087JB5VKC)
 - 1750 RPM Motor
+- [1/2" x 51" v-belt](https://www.tractorsupply.com/tsc/product/huskee-v-belt-1-2-in-x-51-in-oc-4460919) 
 
 ### Features
 - Motor speed reducing pulleys (1750 RPM -> 250 RPM)
